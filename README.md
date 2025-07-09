@@ -9,4 +9,4 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 3 | E-Commerce Bussiness Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 4 | SuperStore Consult | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
 | 5 | SuperStore Returns | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 6 | Shopify Platform Analysis | The purpose was to review the landscape of apps on the Shopify platform, using data sourced from publicly available Shopify websites, and to figure out what key factors play into success of a Shopify app. Skills Used: Power BI |
+| 6 | Shopify Platform Analysis | The purpose was to review the landscape of apps on the Shopify platform, using data sourced from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app. Skills Used: Power BI |
