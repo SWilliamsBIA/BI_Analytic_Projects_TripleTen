@@ -2,6 +2,7 @@
 Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
 
 
+
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
