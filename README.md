@@ -1,4 +1,4 @@
-## TripleTen_projects
+## BI_Analytics_Projects_TripleTen
 Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
 
 
