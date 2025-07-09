@@ -8,3 +8,5 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 2 | Manhattan Vacation Rental Market Project| This project was about analyzing Airbnb listings in Manhattan, Nyc, to help a client decide what type of vacation rental property to invest in. Skills Used: Advanced Spreadsheet |
 | 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
 | 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 5 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 6 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
